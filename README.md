@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jay-sanjay
+- 👋 Hi, I’m @Jay-sanjay pursuing bachelors dergree in Computational Sciences at IIT-Hyderabad.
 - 👀 I’m interested in open source contribution
 - 🌱 I’m currently learning machine learning and algorithm's
 - 💞️ I’m looking to collaborate on open source projects
