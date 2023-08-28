@@ -8,12 +8,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-sanjay&label=Profile%20views&color=0e75b6&style=flat" alt="jay-sanjay" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-sanjay" alt="jay-sanjay" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jlandge36419" target="blank"><img src="https://img.shields.io/twitter/follow/jlandge36419?logo=twitter&style=for-the-badge" alt="jlandge36419" /></a> </p>
-
 - 🔭 I’m currently an Undergraduate Student **at IIT-Hyderabad**
 
 - 🌱 I’m currently learning **MLOps**
@@ -27,6 +21,12 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-sanjay&label=Profile%20views&color=0e75b6&style=flat" alt="jay-sanjay" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-sanjay" alt="jay-sanjay" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/jlandge36419" target="blank"><img src="https://img.shields.io/twitter/follow/jlandge36419?logo=twitter&style=for-the-badge" alt="jlandge36419" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
