@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
 
-- 🔭 I’m currently an Undergraduate Student **at IIT-Hyderabad**
+- 🔭 I’m currently an Undergraduate Student **at IIT-Hyderabad** currently pursuing my Bachelor's in Computational Engineering.
 
 - 🌱 I’m currently learning **MLOps**
 
