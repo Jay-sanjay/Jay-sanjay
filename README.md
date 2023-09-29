@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Open Source contributor and Machine Learning Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
-
+![](https://komarev.com/ghpvc/?username=Jay-sanjay&color=blueviolet)
 - 🔭 I’m currently an Undergraduate Student **at IIT-Hyderabad** currently pursuing my Bachelor's in Computational Engineering.
 
 - 🌱 I’m currently learning **MLOps**
