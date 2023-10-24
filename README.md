@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MLOps**
 
-- 📝 I regularly write articles on [https://jaysblog.hashnode.dev/](https://jaysblog.hashnode.dev/)
+- 📝 I am trying to be regular on [https://jaysblog.hashnode.dev/](https://jaysblog.hashnode.dev/)
 
 - 💬 Ask me about **Machine Learning , Algorithms**
 
