@@ -15,10 +15,4 @@
 
 - 📫 How to reach me **landgejay124@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=Jay-sanjay&color=blueviolet)
 
-## 📊 GitHub Stats
-
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-sanjay&show_icons=true&theme=radical)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-sanjay&" alt="jay-sanjay" /></p>
