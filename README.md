@@ -16,7 +16,7 @@
 - 📫 How to reach me **landgejay124@gmail.com**
 
 
-
+- Do check out my new blogs [here](https://medium.com/@landgejay124/gsoc-24-the-julia-language-62b809bbec49)
 
 
 ## 📊 GitHub Stats
